@@ -1,3 +1,4 @@
 # nidhi.demo
-this is my  first repository
-author-nidhi
+This is my  first repository.
+<br>
+Author-Nidhi
